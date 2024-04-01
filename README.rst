@@ -2,7 +2,7 @@
 MongoDB Realm Documentation
 ===========================
 
-This repository contains documentation for MongoDB Realm.
+Thiis repository contains documentation for MongoDB Realm.
 
 Contribute
 ----------
